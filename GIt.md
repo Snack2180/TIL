@@ -6,6 +6,7 @@ Git
 
 ### Git 파일 등록 순서
 > 내가 공부한 파일들을 저장하는 과정
+
 #### 순서  : __Add - Staging - Commit - Push__
 
 - `add` = 파일 등록
